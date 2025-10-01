@@ -1,23 +1,42 @@
-SQL and Excel Projects
-==========================
-This repository contains a collection of SQL and Excel projects that demonstrate my skills in data analysis and visualization.
-Project Overview
---------------------
-The projects in this repository showcase my abilities in:
-SQL: Data modeling, querying, and data visualization using various databases.
-Excel: Data analysis, pivot tables, and data visualization.
-Highlights
-------------
-Project 1: Demonstrates advanced SQL querying techniques for data extraction and analysis.
-Project 2: Showcases Excel pivot table skills for data visualization and insights.
-Collaboration and Feedback
----------------------------
-I invite you to:
-Explore the projects and datasets.
-Ask questions or provide feedback on my work.
-Collaborate on new projects or ideas.
-Use the datasets for your own analysis and visualizations.
-License and Permissions
--------------------------
-The projects and datasets are licensed under [alexabonsu].
-I hope this helps! Let me know if you have any questions or need further assistance.
+# Data Analytics Portfolio
+
+A collection of **SQL, Excel, and Power BI projects** showcasing data analysis, visualization, and reporting skills. These projects demonstrate my ability to transform raw data into actionable insights.
+
+---
+
+## 📂 Project Overview
+
+### SQL Projects
+- Advanced querying techniques
+- Data modeling and creating views
+- Generating insights from databases
+
+### Excel Projects
+- Data analysis with pivot tables
+- Dashboards and dynamic visualizations
+- Conditional formatting and data cleaning
+
+### Power BI Projects
+- Interactive dashboards
+- Data modeling and relationships
+- DAX calculations and advanced visualizations
+
+---
+
+## 🔹 Highlights
+- Hands-on experience with real datasets
+- Showcases end-to-end analysis workflow
+- Demonstrates ability to communicate insights visually
+
+---
+
+## 🤝 Collaboration & Feedback
+- Explore the projects and datasets  
+- Ask questions or provide feedback  
+- Collaborate on new projects or ideas  
+- Use the datasets for your own analysis
+
+---
+
+## 📜 License
+All projects and datasets are created by **Alex Bonsu Addo**. Feel free to use, study, and build upon the work provided.
